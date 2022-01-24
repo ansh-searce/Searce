@@ -1,1 +1,1 @@
-This repository contains my assignments and challenges 
+This repository contains my assignments and challenges.
